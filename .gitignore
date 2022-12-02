@@ -1,0 +1,63 @@
+# Project exclude paths
+/.gradle/
+/Car Sharing/task/build/
+/Car Sharing/task/out/production/classes/
+/Car Sharing/task/out/test/classes/
+/Topics/Collectors/ASCII Art/out/
+/Topics/Collectors/ASCII Art/out/production/classes/
+/Topics/Collectors/Collectors class/out/
+/Topics/Collectors/Collectors class/out/production/classes/
+/Topics/Collectors/Determine the value/out/
+/Topics/Collectors/Determine the value/out/production/classes/
+/Topics/Collectors/Existing collectors/out/
+/Topics/Collectors/Existing collectors/out/production/classes/
+/Topics/Collectors/Set average/out/
+/Topics/Collectors/Set average/out/production/classes/
+/Topics/Collectors/Statements/out/
+/Topics/Collectors/Statements/out/production/classes/
+/Topics/Collectors/The product of squares/out/
+/Topics/Collectors/The product of squares/out/production/classes/
+/Topics/Collectors/Theory/out/
+/Topics/Collectors/Theory/out/production/classes/
+/Topics/Collectors/Сollect parameter/out/
+/Topics/Collectors/Сollect parameter/out/production/classes/
+/Topics/Functional data processing with streams/A sorted stream/out/
+/Topics/Functional data processing with streams/A sorted stream/out/production/classes/
+/Topics/Functional data processing with streams/Count passwords/out/
+/Topics/Functional data processing with streams/Count passwords/out/production/classes/
+/Topics/Functional data processing with streams/Create a stream from a list/out/
+/Topics/Functional data processing with streams/Create a stream from a list/out/production/classes/
+/Topics/Functional data processing with streams/Finding max and min elements/out/
+/Topics/Functional data processing with streams/Finding max and min elements/out/production/classes/
+/Topics/Functional data processing with streams/Intermediate operations/out/
+/Topics/Functional data processing with streams/Intermediate operations/out/production/classes/
+/Topics/Functional data processing with streams/Long ranges/out/
+/Topics/Functional data processing with streams/Long ranges/out/production/classes/
+/Topics/Functional data processing with streams/Print elements of a stream/out/
+/Topics/Functional data processing with streams/Print elements of a stream/out/production/classes/
+/Topics/Functional data processing with streams/Statements about stream operations/out/
+/Topics/Functional data processing with streams/Statements about stream operations/out/production/classes/
+/Topics/Functional data processing with streams/Statements about streams/out/
+/Topics/Functional data processing with streams/Statements about streams/out/production/classes/
+/Topics/Functional data processing with streams/Terminal operations with streams/out/
+/Topics/Functional data processing with streams/Terminal operations with streams/out/production/classes/
+/Topics/Functional data processing with streams/Theory/out/
+/Topics/Functional data processing with streams/Theory/out/production/classes/
+/Topics/Reduction methods/Calculating factorials/out/
+/Topics/Reduction methods/Calculating factorials/out/production/classes/
+/Topics/Reduction methods/Range quadratic sum/out/
+/Topics/Reduction methods/Range quadratic sum/out/production/classes/
+/Topics/Reduction methods/Reduce operations/out/
+/Topics/Reduction methods/Reduce operations/out/production/classes/
+/Topics/Reduction methods/Reduce-like operations/out/
+/Topics/Reduction methods/Reduce-like operations/out/production/classes/
+/Topics/Reduction methods/Reducing persons by ages/out/
+/Topics/Reduction methods/Reducing persons by ages/out/production/classes/
+/Topics/Reduction methods/Statements/out/
+/Topics/Reduction methods/Statements/out/production/classes/
+/Topics/Reduction methods/Sum of divisors/out/
+/Topics/Reduction methods/Sum of divisors/out/production/classes/
+/Topics/Reduction methods/The count operation/out/
+/Topics/Reduction methods/The count operation/out/production/classes/
+/Topics/Reduction methods/Theory/out/
+/Topics/Reduction methods/Theory/out/production/classes/
